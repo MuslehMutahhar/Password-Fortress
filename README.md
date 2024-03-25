@@ -9,9 +9,7 @@
 
   <p align="center">
     Generate encrypted password and share with secure.
-    <br />
-    <a href="https://github.com/MuslehMutahhar/Password-Fortress/tree/main"><strong>Explore the docs »</strong></a>
-    <br />
+   
   </p>
 </div>
 
@@ -43,7 +41,7 @@ Professionals in need of a reliable tool to handle sensitive information.
 Organizations seeking an efficient solution for secure credential management.</br>
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Built With
 
@@ -55,7 +53,7 @@ Organizations seeking an efficient solution for secure credential management.</b
 <img src="https://github.com/MuslehMutahhar/Password-Fortress/blob/main/resources/ctk_icon.png" alt="Icon" width="32" height="32">
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -104,4 +102,4 @@ Click the 'Exit' button to safely close the application.
 <img src="https://github.com/MuslehMutahhar/Password-Fortress/blob/main/resources/send_screenshot.png" width="600" height="500">
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
